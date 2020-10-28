@@ -1,0 +1,36 @@
+body {
+    background-color: darkgrey
+}
+
+nav .current {
+    color: purple
+}
+
+span {
+    color: black;
+}
+
+h1 {
+    background-color: palegoldenrod
+}
+
+h2 {
+    background-color: palegoldenrod
+}
+
+/* home */
+#yoga p {
+    color: green;
+}
+
+#where p {
+    color: white
+}
+
+#alone-or-in-group p {
+    color: navy;
+}
+
+#why p {
+    color: lightgreen;
+}
